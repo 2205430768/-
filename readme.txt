@@ -1,0 +1,1 @@
+PosShare是一个java web服务程序，主要功能是聊天，位置共享等一些功能，androidim-cim-master是一个android和服务端实现的聊天软件
